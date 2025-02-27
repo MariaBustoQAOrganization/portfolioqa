@@ -65,4 +65,4 @@ Release will be consider ready when:
 
 ## AUTHOR
 Maria Busto, QA Manual
-[LinkedIn Profile](https://www.linkedin.com/in/reyescuesta)
+[LinkedIn Profile](https://www.linkedin.com/in/mar%C3%ADa-busto-g%C3%B3mez-590035257/)
