@@ -1,4 +1,4 @@
-# PORTFOLIO
+# PORTFOLIO QA
 This is my QA portfolio.
 [Maria Busto PORTFOLIO](https://bootcamp-qa.github.io/web-portfolio-template)
 
@@ -65,4 +65,6 @@ Release will be consider ready when:
 
 ## AUTHOR
 Maria Busto, QA Manual
+<<<<<<< HEAD
 [LinkedIn Profile](https://www.linkedin.com/in/mar%C3%ADa-busto-g%C3%B3mez-590035257/)
+=======
