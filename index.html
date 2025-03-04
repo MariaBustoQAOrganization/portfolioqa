@@ -69,10 +69,14 @@
     <section>
       <h2><i class="fa fa-envelope"></i> Contact</h2>
        <form action="https://docs.google.com/forms/d/e/1FAIpQLScRjChp5vYlGnjS6ESTkrWHVN4_ysgT2ppc3aOvSCsvKqyhCA/viewform" method="POST">
-        <input type="email" id="name" name="entry.1045781291" placeholder="Email"><br>
-        <input type="text" id="email" name="entry.2005620554" placeholder="Subject"><br>
-        <textarea rows="4" id="message" name="entry.839337160" placeholder="Your message"></textarea><br>
-        <button type="submit"><i class="fa fa-paper-plane"></i> Send message</button>
+        <label for="fname">Email</label><br>
+        <p></p><input type="email" id="name" name="entry.1045781291 required"><br></p>
+        
+        <label for="fname">Subject</label><br>
+        <p></p><input type="text" id="email" name="entry.2005620554 maxlength=40 required"><br></p>
+        <label for="fname">Comment</label><br>
+        <p></p><textarea rows="4" id="message" name="entry.839337160 maxlength=500 required"></textarea><br></p>
+        </p><button type="submit"><i class="fa fa-paper-plane"></i> Send message</button>
       </form>
     </section>
   </main>
